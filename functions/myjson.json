@@ -1,0 +1,22 @@
+[{"id":"38","first":"rithi","last":"hema",
+"username":"rithika","email":"rithikahemalatha@gmail.com",
+"password":"202cb962ac59075b964b07152d234b70",
+"valid_code":"0","active":"1","interest":"c,c++,java",
+"bio":"i am a cse undergraduate",
+"work":"Developer","contact":"bit.ly\/selva-resume",
+"img":"http:\/\/www.stickpng.com\/assets\/images\/5866144b7d90850fc3ce2a64.png",
+"complete":"1"},
+
+
+{"id":"41","first":"kutty","last":"selva",
+"username":"kutty selva","email":"kuttyselva57@gmail.com",
+"password":"81dc9bdb52d04dc20036dbd8313ed055",
+"valid_code":"0","active":"1",
+"interest":"c,html,python",
+"bio":"i am a web developer",
+"work":"student",
+"contact":"bit.ly\/selva-resume",
+"img":"http:\/\/images5.fanpop.com\/image\/photos\/29200000\/PIKACHU-pikachu-29274386-861-927.jpg",
+"complete":"1"},
+
+{"id":"42","first":"hema","last":"latha","username":"hema","email":"kuttyprojects@gmail.com","password":"202cb962ac59075b964b07152d234b70","valid_code":"0","active":"1","interest":"java","bio":"vetti","work":"student","contact":"bibibib","img":"http:\/\/localhost:8080\/login\/images\/img-01.png","complete":"1"}]
